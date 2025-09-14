@@ -18,3 +18,5 @@ Some fun facts about me:
 **Links for Assignment 1:**
 1. [Link to 3 selected domains for assignment 1](assignments/assignment1/selectedDomains.md)
 2. [Link to 7 unselected domains for assignment 1](assignments/assignment1/unselectedDomains.md)
+
+**Link for Pset1:** [Link to Pset1](assignments/Pset1/pset1.md)
