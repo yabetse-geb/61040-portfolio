@@ -20,3 +20,5 @@ Some fun facts about me:
 2. [Link to 7 unselected domains for assignment 1](assignments/assignment1/unselectedDomains.md)
 
 **Link for Pset1:** [Link to Pset1](assignments/Pset1/pset1.md)
+
+**Link for Pset2:** [Link to Pset2](assignments/Pset2/pset2.md)
