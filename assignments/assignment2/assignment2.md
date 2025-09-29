@@ -243,7 +243,7 @@ In conclusion, PasswordAuth secures the system and defines users, SleepSchedule 
 ![Home Page and Reproting Page](ReportingPageAndHomePage.png)
 
 ## Competition page
-![Competition page](CompetitionPage.png)
+![Competition page](competitionPage.png)
 
 ## Setting Up Wake up/Bed times and accountability partners + competitors
 ![ Setup page](setUpPage.png)
