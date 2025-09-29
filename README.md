@@ -24,5 +24,4 @@ Some fun facts about me:
 **Link for Pset2:** [Link to Pset2](assignments/Pset2/pset2.md)
 
 **Links for Assignment 2:**
-1. [Link for all writting (omitting UI sketches)](assignments/assignment2/assignment2.md)
-
+1. [Link for Assignment 2](assignments/assignment2/assignment2.md)
